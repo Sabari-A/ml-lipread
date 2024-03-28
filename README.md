@@ -41,7 +41,7 @@ This will launch the full-stack app.
 
 ## Demo
 
-![Quick demo of the project](demo.mov)
+![Quick demo of the project](demo.mp4)
 
 ## Acknowledgements
 
