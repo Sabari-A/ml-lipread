@@ -41,7 +41,7 @@ This will launch the full-stack app.
 
 ## Demo
 
-![Quick demo of the project](demo.mp4)
+https://github.com/Sabari-A/ml-lipread/assets/124187101/00673024-ee91-47d3-91fe-dbd4ad1f8b92
 
 ## Acknowledgements
 
